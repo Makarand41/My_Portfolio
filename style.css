@@ -122,6 +122,12 @@ span {
     transition: 0.5s ease;
 }
 
+
+.social-media img{
+    border-radius: 50%;
+            border: 3px solid #0ef;
+}
+
 .social-media a:hover {
     background: var(--main-color);
     color: var(--second-bg-color);
